@@ -1,7 +1,7 @@
 # Brainstorming de Design — Aguiar & Aguiar Advocacia
 
 ## Contexto
-Site para Dra. Lamdamara Mota Aguiar, advogada analista de licitação.
+Site para Dra. Lindamara Mota Aguiar, advogada analista de licitação.
 Estilo solicitado: Humanizado & Acolhedor — Bordeaux, Terracota, Rosé.
 
 ---
